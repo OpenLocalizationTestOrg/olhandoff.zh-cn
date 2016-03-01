@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff srcLang="en-US" trgLang="zh-cn" version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0">
+  <file id="1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="oltranslationpriority">
+        </mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="olfilehash">727be8c1708119fe5e48ae3ff5a0e7e901103c7d</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <group id="content">
+      <unit id="101">
+        <segment state="initial">
+          <source xml:space="preserve">Pong!</source>
+          <target xml:space="preserve">Pong!</target>
+        </segment>
+      </unit>
+      <unit id="102">
+        <segment state="initial">
+          <source xml:space="preserve">add performance scope</source>
+          <target xml:space="preserve">add performance scope</target>
+        </segment>
+      </unit>
+      <unit id="103">
+        <originalData>
+          <data id="id1">&lt;code language="javascript"&gt;</data>
+          <data id="id2">var array = [];</data>
+          <data id="id3">&lt;/code&gt;</data>
+        </originalData>
+        <segment state="initial">
+          <source xml:space="preserve">run command <ph dataRef="id1" id="ph1" /><ph dataRef="id2" id="ph2" /><ph dataRef="id3" id="ph3" /></source>
+          <target xml:space="preserve">run command <ph dataRef="id1" id="ph1" /><ph dataRef="id2" id="ph2" /><ph dataRef="id3" id="ph3" /></target>
+        </segment>
+      </unit>
+      <unit id="104">
+        <originalData>
+          <data id="id1">&lt;b&gt;</data>
+          <data id="id2">&lt;/b&gt;</data>
+        </originalData>
+        <segment state="initial">
+          <source xml:space="preserve">this is <ph dataRef="id1" id="ph1" />inline<ph dataRef="id2" id="ph2" /> part</source>
+          <target xml:space="preserve">this is <ph dataRef="id1" id="ph1" />inline<ph dataRef="id2" id="ph2" /> part</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
